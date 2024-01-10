@@ -3,7 +3,7 @@ This is a hello world example for a README.md
 
 # Über mich
 
-Hallo, ich bin [Dein Name], ein leidenschaftlicher Softwareentwickler mit einer Vorliebe für kreative Lösungen und innovative Technologien. Meine Erfahrung erstreckt sich über [Anzahl der Jahre] Jahre in der Softwareentwicklung, und ich habe Freude daran, robuste und skalierbare Anwendungen zu gestalten.
+Hallo, ich bin Jannis, ein leidenschaftlicher Softwareentwickler mit einer Vorliebe für kreative Lösungen und innovative Technologien. Meine Erfahrung erstreckt sich über 2 Jahre in der Softwareentwicklung, und ich habe Freude daran, robuste und skalierbare Anwendungen zu gestalten.
 
 ## Technologien
 
@@ -14,7 +14,7 @@ Hallo, ich bin [Dein Name], ein leidenschaftlicher Softwareentwickler mit einer 
 
 ## Projekte
 
-- [Projekt 1](Link zum Projekt): Kurze Beschreibung des Projekts.
+- [Projekt 1](Link zum Projekt): Aktienbewertungstool.
 - [Projekt 2](Link zum Projekt): Kurze Beschreibung des Projekts.
 
 ## Beiträge
